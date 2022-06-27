@@ -1,0 +1,36 @@
+interviewer-vivekanandhan r
+java questions-
+constructor
+why strings are immutable
+method overloading and method overriding
+finally
+finalize
+exceptions
+diff bw checked and unchecked.
+diff bw throw and throws
+test ng questions-
+
+test ng real time scenrio 
+consider you have 15 testcases 10smoke and 5 regression testing
+u have run only regression testing
+test ng parameters
+test ng data provider
+
+
+selenium-
+what are the 3 different ways to perform frame
+how will u handle pop up
+fluent wait
+how many test script will u write in a day
+explain about ur project
+Highest Qualification: BE
+
+Date Of Birth:06/04/1996
+
+Aadhar Card Number:867326141978
+
+Pan Card Number:CLHPP5341P
+
+Available Timings on 21-May-22:12PM-5PM
+ 
+
